@@ -41,7 +41,7 @@ Cria instâncias de Usuario.
 Realiza empréstimos e devoluções de livros pelos usuários.
 Link para o Projeto no Google Colab:
 
-Você pode acessar e executar o projeto diretamente no Google Colab através deste [Link:](https://colab.research.google.com/drive/1mgkBiuMjcCpdiAlsy0ifShwkrhjx0EtG?usp=sharing)
+Você pode acessar e executar o projeto diretamente no Google Colab através deste [Link.](https://colab.research.google.com/drive/1mgkBiuMjcCpdiAlsy0ifShwkrhjx0EtG?usp=sharing)
 
 ##
 
