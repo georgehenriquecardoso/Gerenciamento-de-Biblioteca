@@ -5,20 +5,25 @@ Explicação do Código:
 # Classe Livro:
 
 Esta classe representa um livro na biblioteca.
-#
+
 Atributos:
 #
-titulo: Título do livro.
-autor: Autor do livro.
-ano: Ano de publicação do livro.
-disponivel: Indica se o livro está disponível para empréstimo.
+- titulo: Título do livro.
+- autor: Autor do livro.
+- ano: Ano de publicação do livro.
+- disponivel: Indica se o livro está disponível para empréstimo.
+- 
 Métodos:
-emprestar(): Marca o livro como emprestado, se estiver disponível.
-devolver(): Marca o livro como devolvido.
-Classe Usuario:
+
+- emprestar(): Marca o livro como emprestado, se estiver disponível.
+- devolver(): Marca o livro como devolvido.
+ 
+# Classe Usuario:
 
 Esta classe representa um usuário da biblioteca.
+
 Atributos:
+#
 nome: Nome do usuário.
 emprestimos: Dicionário para manter o registro de livros emprestados pelo usuário.
 Métodos:
