@@ -42,4 +42,7 @@ Realiza empréstimos e devoluções de livros pelos usuários.
 Link para o Projeto no Google Colab:
 
 Você pode acessar e executar o projeto diretamente no Google Colab através deste [Link:](https://colab.research.google.com/drive/1mgkBiuMjcCpdiAlsy0ifShwkrhjx0EtG?usp=sharing)
+
+##
+
 Com esse código, os usuários podem interagir com a biblioteca, emprestando e devolvendo livros, enquanto o sistema controla o status dos livros e calcula multas por atraso na devolução. O código está estruturado de forma modular e organizada, facilitando a compreensão e a manutenção.
